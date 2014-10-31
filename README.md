@@ -6,8 +6,8 @@
 
 * [HTML 编码规范](./html.md)
 * [CSS 编码规范](./css.md)
-* [Markdown 编写规范](./markdown.md)
 * [Javascript 编码规范](./javascript.md)
+* [Markdown 编写规范](./markdown.md)
 <!-- * [开源项目目录规范](./project.md) -->
 
 
@@ -18,7 +18,7 @@ todo:
 
 在 FEX 文档基础上根据其他文档以及一些其他知识点添加。
 
-+ HTML 编码规范
+## HTML 编码规范
 - [] 添加 [fex](https://github.com/fex-team/styleguide) HTML 规范
 - [] review [fex](https://github.com/fex-team/styleguide) HTML 规范
 - [] review [lzx-coding-standards](/lzx-coding-standards.md) HTML 部分
