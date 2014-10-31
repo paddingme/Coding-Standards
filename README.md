@@ -8,13 +8,9 @@
 * [CSS 编码规范](./css.md)
 * [Javascript 编码规范](./javascript.md)
 * [Markdown 编写规范](./markdown.md)
-<!-- 开源项目目录规范-->
 
 
-
-
-
-todo:
+## TODO
 
 在 [FEX](https://github.com/fex-team/styleguide) 编码规范文档基础上根据其他文档以及一些其他知识点添加。
 

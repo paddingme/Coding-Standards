@@ -10,7 +10,6 @@
 3. 该命名规范适用于 html, css, js, swf, php, xml, png, gif, jpg, ico 等前端维护的所有文件类型和相关目录.
 4. js 和 css 压缩文件, 统一以 -min 结尾, 比如源码文件为 seed.js, 压缩后为 seed-min.js
 
-
 #### 文件编码约定
 
 1. 使用 UTF-8 编码
