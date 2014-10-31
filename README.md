@@ -6,6 +6,7 @@
 - [Isobar前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 - [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
 - [编码规范 by @mdo](http://codeguide.bootcss.com/)
+- [00xx](https://github.com/paddingme/Coding-Standards/blob/master/lzx-coding-standards.md)
 
 ## 碎片
 
