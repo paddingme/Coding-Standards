@@ -7,6 +7,7 @@
 - [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
 - [编码规范 by @mdo](http://codeguide.bootcss.com/)
 - [00xx](https://github.com/paddingme/Coding-Standards/blob/master/lzx-coding-standards.md)
+- [http://semantic-ui.com/guide/cssguide.html](http://semantic-ui.com/guide/cssguide.html)
 
 ## 碎片
 
