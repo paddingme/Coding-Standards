@@ -58,7 +58,7 @@
  - [ ] sublime 插件以及配置
 
 
-主要参考以下代码规范以及最佳实践，再结合自身习惯总结：
+## 主要参考以下代码规范以及最佳实践，再结合自身习惯归纳
 - [文档与源码编写风格](https://github.com/fex-team/styleguide)
 - [Isobar前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 - [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
