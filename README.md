@@ -58,13 +58,6 @@
  - [ ] sublime 插件以及配置
 
 
-## 主要参考以下代码规范以及最佳实践：
-- [文档与源码编写风格](https://github.com/fex-team/styleguide)
-- [Isobar前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
-- [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
-- [编码规范 by @mdo](http://codeguide.bootcss.com/)
-- [00xx](https://github.com/paddingme/Coding-Standards/blob/master/lzx-coding-standards.md)
-- [http://semantic-ui.com/guide/cssguide.html](http://semantic-ui.com/guide/cssguide.html)
 
 
 

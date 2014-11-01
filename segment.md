@@ -28,3 +28,26 @@ kitty reset。normal.css，等，查询后再总结。
 
 ```
 
+
+## 一些细节
+
+```
+.foo {
+ -webkit-tap-highlight-color: transparent; /* 部分浏览器只支持这个 */
+ -webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
+}
+```
+
+参考链接：
+ - https://github.com/yisibl/blog/issues/6
+ - http://stackoverflow.com/questions/5210481/disable-orange-outline-highlight-on-focus
+
+
+`absolute` 与 `display` 并存，`display` 属性自动计算为 `block`。
+
+```
+.foo {
+  position: absolute;
+  display: inline-blcok; /* 多余属性 */
+}
+```
