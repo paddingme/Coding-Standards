@@ -36,6 +36,7 @@
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) MD 规范
  - [ ] review [Markdown 语法说明](http://wowubuntu.com/markdown/) MD 规范
  - [ ] review [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) MD 规范
+ - [ ] review [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 + Javascript 编码规范
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) Javascript 规范
