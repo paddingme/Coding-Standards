@@ -25,6 +25,7 @@
 + CSS 编码规范
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) CSS 规范
  - [ ] review [fex](https://github.com/fex-team/styleguide) CSS 规范
+ - [ ] review [css-creating](https://github.com/yisibl/css-creating)
  - [ ] review [lzx-coding-standards](/lzx-coding-standards.md) CSS 部分
  - [ ] review [编码规范 by @mdo](http://codeguide.bootcss.com/) CSS 部分
  - [ ] 根据各个 CSS reset 以及 [zxx.lib.css](zxx.lib.css)以及sofish & lepture 等 CSS 库进行总结出一份属于自己的 CSS 库，参考 paddingme 的 gists。
