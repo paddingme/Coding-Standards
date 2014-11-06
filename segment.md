@@ -51,3 +51,11 @@ kitty reset。normal.css，等，查询后再总结。
   display: inline-blcok; /* 多余属性 */
 }
 ```
+
+
+减少`<a href="#" onclick="">` 或者 `<a href="javascript:...">` 应考虑在
+noscript 下 该如何平稳退化。至少不影响功能使用。
+
+应该把 href 指向正确的真实存在的地址。
+
+
