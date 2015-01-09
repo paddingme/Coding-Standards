@@ -51,3 +51,6 @@ kitty reset。normal.css，等，查询后再总结。
   display: inline-blcok; /* 多余属性 */
 }
 ```
+
+
+[会说话的HTML——语义化杂谈](http://blog.jobbole.com/63176/) 
