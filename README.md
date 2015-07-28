@@ -32,6 +32,7 @@
  - [ ] review [Isobar前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/) CSS 部分
  - [ ] review [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/) CSS 部分
  - [ ] review [http://semantic-ui.com/guide/cssguide.html](http://semantic-ui.com/guide/cssguide.html)
+ - [ ] review [CSS 创作指南（Beta）](https://github.com/cssdream/css-creating)
 
 + Markdown 编码规范
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) MD 规范
