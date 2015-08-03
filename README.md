@@ -7,12 +7,20 @@
 * [HTML 编码规范](./html.md)
 * [CSS 编码规范](./css.md)
 * [Javascript 编码规范](./javascript.md)
+* [AngularJS 编码规范](/angularjs.md)
 * [Markdown 编写规范](./markdown.md)
 
+## 常用软件配置及教程
+
+  * [Sublime Text 3 插件备忘](https://github.com/paddingme/Learning-HTML-CSS/issues/39)
+  * [Markdown 语法笔记](http://padding.me/blog/2015/01/14/my-markdown-syntax-notes/)
+  * [Emmet 语法笔记](http://padding.me/blog/2014/11/12/emmet-syntax-notes/)
+  * [学习git拾遗](http://padding.me/blog/2014/11/04/learn-git-snopt/)
 
 ## TODO
 
 在 [FEX](https://github.com/fex-team/styleguide) 编码规范文档基础上根据其他文档以及一些其他知识点添加。
+AngularJS 规范基于 [angular-styleguide](https://github.com/johnpapa/angular-styleguide)。
 
 + HTML 编码规范
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) HTML 规范
@@ -33,6 +41,10 @@
  - [ ] review [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/) CSS 部分
  - [ ] review [http://semantic-ui.com/guide/cssguide.html](http://semantic-ui.com/guide/cssguide.html)
  - [ ] review [CSS 创作指南（Beta）](https://github.com/cssdream/css-creating)
+
++ AngularJS 编码规范
+ - [ ] review [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
+ - [ ] review [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
 
 + Markdown 编码规范
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) MD 规范
@@ -56,12 +68,9 @@
  - [x] 20141101 添加 [fex](https://github.com/fex-team/styleguide) security.md
 
 + sublime 插件以及配置
- - [ ] 参考[emmet-plus](https://github.com/yisibl/emmet-plus)
- - [ ] 参考[Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
- - [ ] sublime 插件以及配置
-
-
-
+ - [x] 参考[emmet-plus](https://github.com/yisibl/emmet-plus)
+ - [x] 参考[Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+ - [x] sublime 插件以及配置
 
 - [前端CSS规范整理](http://www.biaodianfu.com/css-style-guide.html)
 
